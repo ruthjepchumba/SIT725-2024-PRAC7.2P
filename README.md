@@ -4,7 +4,7 @@
 
 Follow these steps to run the project:
 
-1. Clone the repository:`git clone https://github.com/ruthjepchumba/SIT725-2024-PRAC5.2C.git`
+1. Clone the repository:`git clone https://github.com/ruthjepchumba/SIT725-2024-PRAC7.2P.git`
 2. Navigate to the project directory: cd SIT725-2024-PRAC5.2C
 3. Install dependencies:
 `npm install`
