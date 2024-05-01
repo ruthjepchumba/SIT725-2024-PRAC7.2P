@@ -1,0 +1,33 @@
+.navbar-size {
+  width: 95%;
+  margin: 0 auto;
+}
+nav {
+  background-color: rgb(22, 20, 90) !important;
+}
+
+.user-image-size {
+  height: 56px;
+  margin: 4px 0;
+}
+.main-body {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgb(23, 23, 158) 35%, rgb(4, 1, 52) 100%);
+  height: calc(100vh - 64px);
+}
+
+.materialboxed-image {
+  margin: 0 auto;
+  height: 400px;
+}
+.click-me-button {
+  background-color:   rgb(31, 130, 150) 100%;
+  margin-top: 50px;
+}
+h1, .flow-text {
+color: white;
+}
+
+.card-text{
+  color: rgb(39, 144, 164);
+}

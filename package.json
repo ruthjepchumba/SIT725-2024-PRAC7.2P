@@ -1,0 +1,30 @@
+{
+  "name": "sit725-2024-prac4",
+  "version": "1.0.0",
+  "description": "Adding server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruthjepchumba/SIT725-2024-PRAC4.git"
+  },
+  "keywords": [
+    "SIT725"
+  ],
+  "author": "ruth jepchumba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruthjepchumba/SIT725-2024-PRAC4/issues"
+  },
+  "homepage": "https://github.com/ruthjepchumba/SIT725-2024-PRAC4#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.3.3",
+    "socket.io": "^4.7.5",
+    "sqlite3": "^5.1.7"
+  }
+}
